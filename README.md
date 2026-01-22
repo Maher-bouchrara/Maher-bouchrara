@@ -25,7 +25,7 @@
 <p align="left">
 🎓 Pursuing a <strong>Software Engineering Degree</strong> at ISI Ariana, Tunisia<br><br>
 🔭 Working on <strong>AI-powered applications</strong> and <strong>Full-Stack Web Development</strong><br><br>
-🌱 Learning <strong>Machine Learning & Deep Learning</strong> on Kaggle (Python, Pandas, Data Visualization, Feature Engineering)<br><br>
+🌱 Currenty learning <strong>Machine Learning & Deep Learning</strong> on Kaggle (Python, Pandas, Data Visualization, Feature Engineering...)<br><br>
 👯 Looking to collaborate on <strong>AI/ML</strong> or <strong>Full-Stack Development</strong> projects<br><br>
 💼 Experienced with <strong>React, Next.js, Angular, Spring Boot, Flask, TensorFlow</strong><br><br>
 📫 How to reach me: <a href="mailto:maher.bouchrara0@gmail.com">maher.bouchrara0@gmail.com</a><br><br>
