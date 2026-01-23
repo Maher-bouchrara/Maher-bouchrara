@@ -9,7 +9,7 @@
 <br>
 
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <div align="center">
   <table>
@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/🎓_Software_Engineering_Student-ISI_Ariana-blue?style=for-the-badge" />
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📍_Location-Tunisia-green?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/_Location-Tunisia-green?style=for-the-badge" />
       </td>
     </tr>
   </table>
@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+&+Deep+Leaning+Application;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <br>
