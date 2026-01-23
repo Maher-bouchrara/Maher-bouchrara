@@ -1,137 +1,122 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Maher%20Bouchrara&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&color=gradient&animation=fadeIn"  />
 </div>
-
-###
-
-<h1 align="center">Hey 👋 I'm Maher Bouchrara</h1>
-
-###
-
-<h3 align="center">A Software Engineering Student from Tunisia</h3>
-
-###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+  <img height="180" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
 </div>
 
-###
+<br>
 
-<h2 align="left">About me</h2>
 
-###
+<h2 align="center">🚀 About Me</h2>
 
-<p align="left">
-🎓 Pursuing a <strong>Software Engineering Degree</strong> at ISI Ariana, Tunisia<br><br>
-🔭 Working on <strong>AI-powered applications</strong> and <strong>Full-Stack Web Development</strong><br><br>
-🌱 Currenty learning <strong>Machine Learning & Deep Learning</strong> on Kaggle (Python, Pandas, Data Visualization, Feature Engineering...)<br><br>
-👯 Looking to collaborate on <strong>AI/ML</strong> or <strong>Full-Stack Development</strong> projects<br><br>
-💼 Experienced with <strong>React, Next.js, Angular, Spring Boot, Flask, TensorFlow</strong><br><br>
-📫 How to reach me: <a href="mailto:maher.bouchrara0@gmail.com">maher.bouchrara0@gmail.com</a><br><br>
-🌐 Portfolio: <a href="https://maherbouchrara.me">maherbouchrara.me</a><br><br>
-💼 Upwork: <a href="https://www.upwork.com/freelancers/~0192868129a105eafb">Hire me on Upwork</a>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/🎓_Software_Engineering_Student-ISI_Ariana-blue?style=for-the-badge" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.shields.io/badge/📍_Location-Tunisia-green?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-###
-###
+<br>
 
-<h3 align="left">Connect with me</h3>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-###
+### 💼 Currently Working On
+- 🤖 **AI-powered applications**
+- 🌐 **Full-Stack Web Development**
+- 📊 **Machine Learning & Deep Learning**
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/maher-bouchrara-35b91122b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+### 🌱 Learning & Growing
+- 📈 Kaggle courses (Python, Pandas, Data Viz)
+- 🧠 Advanced ML algorithms
+- ☁️ Cloud technologies
+
+</td>
+<td valign="top" width="50%">
+
+### 🎯 Collaboration Interests
+- 🤝 AI/ML projects
+- 💻 Full-Stack Development
+- 🔬 Research & Innovation
+
+### 🛠️ Tech Stack Highlights
+- ⚛️ React, Next.js, Angular
+- 🍃 Spring Boot, Flask
+- 🧮 TensorFlow, PyTorch
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+  
+### 📬 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-maher.bouchrara0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maher.bouchrara0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maherbouchrara.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maherbouchrara.me)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0192868129a105eafb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maher-bouchrara-35b91122b/)
+
 </div>
 
-###
+<br>
 
-<h2 align="left">I code with</h2>
 
-###
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+<div align="center">
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,dotnet,java,python,php,cpp" alt="Backend Skills" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,docker,git,github" alt="Database & Tools" />
+</p>
+
+### 🤖 AI/ML & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,opencv" alt="AI/ML Skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="kaggle" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,electron,npm,raspberrypi" alt="Dev Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira" />
+</p>
+
 </div>
 
-###
+<br>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"  />
 </div>
-
-###
