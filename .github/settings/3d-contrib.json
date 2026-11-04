@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-maher.svg",
+  "backgroundColor": "#0b0c10",
+  "foregroundColor": "#f4f1ea",
+  "strongColor": "#f0c765",
+  "weakColor": "#9c9282",
+  "radarColor": "#6fd0e2",
+  "growingAnimation": true,
+  "contribColors": ["#171a20", "#5a4320", "#8f6a26", "#c9922f", "#f0c765"]
+}
