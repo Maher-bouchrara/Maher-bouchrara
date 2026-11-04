@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide=issues&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide=issues&hide_rank=true&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
           path: cards/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -37,7 +37,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=css,scss,html&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
           path: cards/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

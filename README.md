@@ -65,12 +65,12 @@ I build software around language models: tools that use them, pipelines that orc
   <a href="https://github.com/Maher-bouchrara/training-center-api"><img src="cards/repo-training-center-api.svg" width="49%" alt="Training Center API"></a>
 </p>
 
-| Also | |
-|---|---|
-| [**bg-changer-MODELIA**](https://github.com/Maher-bouchrara/bg-changer-MODELIA) <sub>Oct 2026</sub> | Background replacement with BiRefNet segmentation, clean edges and shadows: CLI, FastAPI API and Next.js page, benchmarked across 5 models. |
-| **Candidature Studio** <sub>Sep 2026 · private</sub> | Job-application studio: versioned CV and letter data, one-page PDF rendering, LLM-assisted tailoring, batched SMTP sending. |
-| **LLM Security Gateway** <sub>Jun 2026 · internship · private</sub> | Reversible PII anonymisation, prompt-injection and toxicity screening between users and cloud LLMs, with an audit dashboard. |
-| **Team projects** | [MLOps platform](https://github.com/Blhasn-Sehli/mlops-platform) · [Exam supervision scheduler](https://github.com/MaherxBlhasn/Compet_Univ) · [Odyssee Travel dashboard](https://github.com/MaherxBlhasn/ODYSSEE-TRAVEL-Services-Dashboard) · [Job Match](https://github.com/MaherxBlhasn/job-match) |
+**Also**
+
+- [**bg-changer-MODELIA**](https://github.com/Maher-bouchrara/bg-changer-MODELIA) <sub>· Oct 2026</sub> — background replacement with BiRefNet segmentation, clean edges and shadows: CLI, FastAPI API and Next.js page, benchmarked across 5 models.
+- **Candidature Studio** <sub>· Sep 2026 · private</sub> — job-application studio: versioned CV and letter data, one-page PDF rendering, LLM-assisted tailoring, batched SMTP sending.
+- **LLM Security Gateway** <sub>· Jun 2026 · internship · private</sub> — reversible PII anonymisation, prompt-injection and toxicity screening between users and cloud LLMs, with an audit dashboard.
+- **Team projects** — [MLOps platform](https://github.com/Blhasn-Sehli/mlops-platform) · [Exam supervision scheduler](https://github.com/MaherxBlhasn/Compet_Univ) · [Odyssee Travel dashboard](https://github.com/MaherxBlhasn/ODYSSEE-TRAVEL-Services-Dashboard) · [Job Match](https://github.com/MaherxBlhasn/job-match)
 
 <img src="assets/divider.svg" width="100%" alt="">
 
