@@ -1,122 +1,105 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Maher%20Bouchrara&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Applications%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&color=gradient&animation=fadeIn"  />
-</div>
-
-<div align="center">
-  <img height="180" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
-</div>
-
-<br>
-
-
-<h2 align="center">About Me</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎓_Software_Engineering_Student-ISI_Ariana-blue?style=for-the-badge" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/📍_Location-Tunisia-green?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+<h1 align="center">Maher Bouchrara</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9FFF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <b>Software Engineer · AI &amp; ML · LLMs &amp; Agents</b><br>
+  Final-year Software Engineering student at ISI Ariana, Tunisia
 </p>
 
-<br>
+<p align="center">
+  <a href="https://maher-bouchrara.vercel.app"><img src="https://img.shields.io/badge/Portfolio-maher--bouchrara.vercel.app-0D1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/maher-bouchrara-35b91122b/"><img src="https://img.shields.io/badge/LinkedIn-Maher_Bouchrara-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:maher.bouchrara0@gmail.com"><img src="https://img.shields.io/badge/Email-maher.bouchrara0%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
+---
 
-### 💼 Currently Working On
-- 🤖 **AI-powered applications**
-- 🌐 **Full-Stack Web Development**
-- 📊 **Machine Learning & Deep Learning**
+I build software around language models: tools that use them, pipelines that orchestrate them, and the security layers that make them safe to use with real data. I care about the engineering around the model as much as the model itself: clear architecture, tests, and honest documentation.
 
-### 🌱 Learning & Growing
-- 📈 Kaggle courses (Python, Pandas, Data Viz)
-- 🧠 Advanced ML algorithms
-- ☁️ Cloud technologies
+- **Now:** part-time Software Engineer at **VamiSec**, building VamiGuard, a Chrome extension that detects sensitive data in AI chat prompts and masks it in the browser before it is sent (rule-based detection plus GLiNER named-entity recognition).
+- **Summer 2026:** AI &amp; Web Engineer intern at **Binacts**. I built an LLM security gateway with reversible PII anonymisation (Presidio, LLM Guard, LiteLLM, FastAPI) and an audit dashboard in React.
+- **Interests:** LLM applications, RAG, AI agents and multi-agent systems, AI security, backend and software architecture.
 
-</td>
-<td valign="top" width="50%">
+## Tech stack
 
-### 🎯 Collaboration Interests
-- 🤝 AI/ML projects
-- 💻 Full-Stack Development
-- 🔬 Research & Innovation
-
-### 🛠️ Tech Stack Highlights
-- ⚛️ React, Next.js, Angular
-- 🍃 Spring Boot, Flask
-- 🧮 TensorFlow, PyTorch
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,java,dart,cpp,php&theme=dark" alt="Python, TypeScript, JavaScript, Java, Dart, C++, PHP"></td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" alt="PyTorch, scikit-learn, OpenCV"><br>
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+      <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
+      <img src="https://img.shields.io/badge/Sentence_Transformers-555555?style=flat-square" alt="Sentence Transformers">
+      <img src="https://img.shields.io/badge/Presidio_·_LLM_Guard-555555?style=flat-square" alt="Presidio and LLM Guard">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,nestjs,express,spring,graphql&theme=dark" alt="FastAPI, Flask, Node.js, NestJS, Express, Spring Boot, GraphQL"></td>
+  </tr>
+  <tr>
+    <td><b>Frontend &amp; mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,flutter,electron&theme=dark" alt="React, Next.js, Angular, Tailwind CSS, Flutter, Electron"></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase,prisma&theme=dark" alt="PostgreSQL, MySQL, MongoDB, SQLite, Firebase, Supabase, Prisma"></td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana,prometheus,vercel,git&theme=dark" alt="Docker, Kubernetes, GitHub Actions, Grafana, Prometheus, Vercel, Git"></td>
+  </tr>
 </table>
 
-<br>
+## Selected projects
 
-<div align="center">
-  
-### 📬 Let's Connect!
+Most recent first.
 
-[![Email](https://img.shields.io/badge/Email-maher.bouchrara0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maher.bouchrara0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-maherbouchrara.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maherbouchrara.me)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0192868129a105eafb)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maher-bouchrara-35b91122b/)
+| Project | What it is | Stack |
+|---|---|---|
+| [**Editing Master**](https://github.com/Maher-bouchrara/Editing-Master-skill) <br><sub>Nov 2026</sub> | A Claude Code plugin that guides an AI agent through making short product videos with HyperFrames: script, voice, music, camera zooms, subtitles. | Claude Code skills, HyperFrames, GSAP |
+| [**AI Background Replacer**](https://github.com/Maher-bouchrara/ai-background-replacer) <br><sub>Oct 2026</sub> | Puts a photo's subject on a new background with clean edges and realistic shadows. CLI, REST API and web page, benchmarked across 5 segmentation models on 970 images, with 154 tests. | PyTorch, BiRefNet, FastAPI, Next.js, Docker |
+| [**Sakina**](https://github.com/Maher-bouchrara/sakina-quran) <br><sub>Sep 2026</sub> | A Quran recitation player that shows one verse at a time with word-by-word highlighting and coloured tajwid. [Live](https://the-sakina-quran.vercel.app) | Vanilla JS, Quran.com API |
+| **Candidature Studio** <br><sub>Sep 2026 · private</sub> | Job-application studio: versioned CV and letter data, one-page PDF rendering, LLM-assisted tailoring validated against the user's own data, batched SMTP sending. | Next.js, TypeScript, libSQL, Puppeteer, Vitest |
+| **LLM Security Gateway** <br><sub>Jun 2026 · internship · private</sub> | A gateway between users and cloud LLMs. It anonymises personal data reversibly, screens prompts for injection and replies for toxicity, and logs everything to an audit dashboard. | FastAPI, Presidio, LLM Guard, LiteLLM, React |
+| [**Semantic Paper Search**](https://github.com/Maher-bouchrara/semantic-paper-search) <br><sub>May 2026</sub> | Ranks scientific publications against a query using embeddings over title, abstract and PDF text. Part of a research-publications platform. | FastAPI, Sentence Transformers, PyMuPDF |
+| [**Live Quiz Platform**](https://github.com/Maher-bouchrara/live-quiz-platform) <br><sub>Mar 2026 · with Maher Ayachi</sub> | Real-time quiz system in the style of Mentimeter and Kahoot, with AI quiz generation, a host app and a participant app. | NestJS, GraphQL, Prisma, Flutter, Firebase |
 
-</div>
+**Team projects I contributed to:**
+- [MLOps platform](https://github.com/Blhasn-Sehli/mlops-platform), covering training, deployment and drift monitoring
+- [exam supervision scheduler](https://github.com/MaherxBlhasn/Compet_Univ), using constraint programming with OR-Tools
+- [Odyssee Travel dashboard](https://github.com/MaherxBlhasn/ODYSSEE-TRAVEL-Services-Dashboard)
+- [Job Match](https://github.com/MaherxBlhasn/job-match)
 
-<br>
+More projects, with demos, are on my [portfolio](https://maher-bouchrara.vercel.app).
 
+## GitHub activity
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
-
-<div align="center">
-
-### 🎨 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,html,css,tailwind,bootstrap" alt="Frontend Skills" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Maher-bouchrara&theme=github-dark-blue&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=Maher-bouchrara&hide_border=true" alt="GitHub contribution streak">
+  </picture>
 </p>
 
-### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,flask,dotnet,java,python,php,cpp" alt="Backend Skills" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/3-stats.svg">
+    <img src="profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most used languages by commit" height="170">
+  </picture>
 </p>
 
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,docker,git,github" alt="Database & Tools" />
-</p>
+---
 
-### 🤖 AI/ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,opencv" alt="AI/ML Skills" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="48" alt="kaggle" />
-</p>
-
-### 🛠️ Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,electron,npm,raspberrypi" alt="Dev Tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira" />
-</p>
-
-</div>
-
-<br>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"  />
-</div>
+<p align="center"><sub>Open to AI/ML and backend engineering opportunities · <a href="https://maher-bouchrara.vercel.app">maher-bouchrara.vercel.app</a></sub></p>
