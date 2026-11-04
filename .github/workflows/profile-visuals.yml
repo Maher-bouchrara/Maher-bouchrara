@@ -41,53 +41,11 @@ jobs:
           path: cards/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Repository card (Editing-Master-skill)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=Editing-Master-skill&show_owner=false&description_lines_count=2&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
-          path: cards/repo-Editing-Master-skill.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Repository card (sakina-quran)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=sakina-quran&show_owner=false&description_lines_count=2&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
-          path: cards/repo-sakina-quran.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Repository card (semantic-paper-search)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=semantic-paper-search&show_owner=false&description_lines_count=2&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
-          path: cards/repo-semantic-paper-search.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Repository card (live-quiz-platform)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=live-quiz-platform&show_owner=false&description_lines_count=2&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
-          path: cards/repo-live-quiz-platform.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Repository card (face-recognition-intruder-detection)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=face-recognition-intruder-detection&show_owner=false&description_lines_count=2&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
-          path: cards/repo-face-recognition-intruder-detection.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Repository card (training-center-api)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=training-center-api&show_owner=false&description_lines_count=2&bg_color=0b0c10&title_color=f0c765&icon_color=f0c765&text_color=ddd7cb&border_color=2a2f38&ring_color=f0c765&border_radius=14
-          path: cards/repo-training-center-api.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated visuals
         run: |

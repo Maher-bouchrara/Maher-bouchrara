@@ -1,0 +1,110 @@
+[
+  {
+    "id": "bg-changer",
+    "title": "bg-changer-MODELIA",
+    "date": "Oct 2026",
+    "tags": ["Computer vision"],
+    "description": "Replaces a photo's background with a colour or an image: BiRefNet segmentation, clean edges and real shadows. CLI, FastAPI API and Next.js page, benchmarked on 970 images.",
+    "tech": ["PyTorch", "BiRefNet", "FastAPI", "Next.js", "Docker"],
+    "link": "https://github.com/Maher-bouchrara/bg-changer-MODELIA"
+  },
+  {
+    "id": "sma",
+    "title": "SMA — Multi-Agent Prospecting",
+    "date": "Oct 2026",
+    "tags": ["AI agents"],
+    "description": "LangGraph pipeline where specialised agents find companies, their key contacts and evidence-backed emails, traced node by node and scored with an LLM-as-judge in LangSmith.",
+    "tech": ["LangGraph", "LangChain", "LangSmith", "Tavily", "Ollama"],
+    "link": "https://maher-bouchrara.vercel.app"
+  },
+  {
+    "id": "ai-gateway",
+    "title": "AI Gateway — LLM Security",
+    "date": "Aug 2026",
+    "tags": ["Internship", "AI security"],
+    "description": "Gateway for cloud LLMs: personal data is anonymised before the call and restored in the answer, with prompt-injection and toxicity guardrails and an audit dashboard.",
+    "tech": ["FastAPI", "Presidio", "LLM Guard", "LiteLLM", "React"],
+    "link": "https://maher-bouchrara.vercel.app"
+  },
+  {
+    "id": "mlops",
+    "title": "MLOps Platform",
+    "date": "May 2026",
+    "tags": ["Team"],
+    "description": "End-to-end MLOps platform covering training, deployment, monitoring, drift detection and A/B testing of ML models, with CI/CD.",
+    "tech": ["MLflow", "Kubeflow", "Kubernetes", "Prometheus", "Grafana"],
+    "link": "https://github.com/Blhasn-Sehli/mlops-platform"
+  },
+  {
+    "id": "live-quiz",
+    "title": "Live Quiz Platform",
+    "date": "Apr 2026",
+    "tags": ["With Maher Ayachi"],
+    "description": "Real-time quiz platform in the style of Mentimeter and Kahoot, with AI quiz generation and live sync between a host app and a participant app.",
+    "tech": ["NestJS", "GraphQL", "Prisma", "Flutter", "Firebase"],
+    "link": "https://github.com/Maher-bouchrara/live-quiz-platform"
+  },
+  {
+    "id": "publications",
+    "title": "Scientific Publications Platform",
+    "date": "Apr 2026",
+    "tags": ["RAG & search"],
+    "description": "Microservices platform for researchers: publication management, semantic search over PDFs and personalised recommendations, with an integrated LLM.",
+    "tech": ["React", "Spring Boot", "FastAPI", "Sentence-Transformers", "Groq"],
+    "link": "https://github.com/Maher-bouchrara/semantic-paper-search"
+  },
+  {
+    "id": "job-match",
+    "title": "Job Match",
+    "date": "Dec 2025",
+    "tags": ["Team"],
+    "description": "Scrapes thousands of job offers and matches them to a CV with a local LLM, so personal data never leaves the machine.",
+    "tech": ["Python", "JobSpy", "Ollama", "Streamlit"],
+    "link": "https://github.com/MaherxBlhasn/job-match"
+  },
+  {
+    "id": "odyssee",
+    "title": "Odyssee Travel Services",
+    "date": "Aug 2025",
+    "tags": ["Summer job"],
+    "description": "Landing page and offer-management dashboard for a travel agency, with analytics, maps and a documented REST API.",
+    "tech": ["Next.js", "Express", "Supabase", "Swagger"],
+    "link": "https://odysseetravelservices.com"
+  },
+  {
+    "id": "iot",
+    "title": "IoT Facial Recognition Security",
+    "date": "Mar 2025",
+    "tags": ["Team"],
+    "description": "Real-time intruder detection with MTCNN and FaceNet, DBSCAN grouping of unknown faces and a Flask and MongoDB API for the mobile app.",
+    "tech": ["Python", "FaceNet", "Flask", "MongoDB", "Flutter"],
+    "link": "https://github.com/Maher-bouchrara/face-recognition-intruder-detection"
+  },
+  {
+    "id": "welearn",
+    "title": "WeLearn Training Center",
+    "date": "Jan 2025",
+    "tags": ["Team"],
+    "description": "Training-centre platform with course management, automated PDF certificates, email notifications and an analytics dashboard.",
+    "tech": ["Spring Boot", "Spring Security", "JWT", "Angular", "MySQL"],
+    "link": "https://github.com/Maher-bouchrara/training-center-api"
+  },
+  {
+    "id": "maze",
+    "title": "Maze Generator & Solver",
+    "date": "Jan 2025",
+    "tags": ["Algorithms"],
+    "description": "Procedural maze generation by recursive division, combined with word-based pathfinding solved with Dijkstra's algorithm.",
+    "tech": ["C++", "Recursive division", "Dijkstra"],
+    "link": "https://maher-bouchrara.vercel.app"
+  },
+  {
+    "id": "exam-scheduling",
+    "title": "Exam Supervision Scheduling",
+    "date": "May 2024",
+    "tags": ["Team", "3rd place · ISI"],
+    "description": "Desktop app that builds fair, rule-compliant exam supervision schedules in seconds with constraint programming.",
+    "tech": ["Electron", "Flask", "OR-Tools", "SQLite"],
+    "link": "https://github.com/MaherxBlhasn/Compet_Univ"
+  }
+]

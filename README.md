@@ -54,23 +54,24 @@ I build software around language models: tools that use them, pipelines that orc
 
 ## Featured projects
 
-<sub>Most recent first.</sub>
+<sub>Most recent first · the same projects as on my <a href="https://maher-bouchrara.vercel.app">portfolio</a>, with demos there.</sub>
 
 <p align="center">
-  <a href="https://github.com/Maher-bouchrara/Editing-Master-skill"><img src="cards/repo-Editing-Master-skill.svg" width="49%" alt="Editing Master"></a>
-  <a href="https://github.com/Maher-bouchrara/sakina-quran"><img src="cards/repo-sakina-quran.svg" width="49%" alt="Sakina"></a>
-  <a href="https://github.com/Maher-bouchrara/semantic-paper-search"><img src="cards/repo-semantic-paper-search.svg" width="49%" alt="Semantic Paper Search"></a>
-  <a href="https://github.com/Maher-bouchrara/live-quiz-platform"><img src="cards/repo-live-quiz-platform.svg" width="49%" alt="Live Quiz Platform"></a>
-  <a href="https://github.com/Maher-bouchrara/face-recognition-intruder-detection"><img src="cards/repo-face-recognition-intruder-detection.svg" width="49%" alt="Face Recognition Intruder Detection"></a>
-  <a href="https://github.com/Maher-bouchrara/training-center-api"><img src="cards/repo-training-center-api.svg" width="49%" alt="Training Center API"></a>
+  <a href="https://github.com/Maher-bouchrara/bg-changer-MODELIA"><img src="assets/projects/bg-changer.svg" width="49%" alt="bg-changer-MODELIA"></a>
+  <a href="https://maher-bouchrara.vercel.app"><img src="assets/projects/sma.svg" width="49%" alt="SMA — Multi-Agent Prospecting"></a>
+  <a href="https://maher-bouchrara.vercel.app"><img src="assets/projects/ai-gateway.svg" width="49%" alt="AI Gateway — LLM Security"></a>
+  <a href="https://github.com/Blhasn-Sehli/mlops-platform"><img src="assets/projects/mlops.svg" width="49%" alt="MLOps Platform"></a>
+  <a href="https://github.com/Maher-bouchrara/live-quiz-platform"><img src="assets/projects/live-quiz.svg" width="49%" alt="Live Quiz Platform"></a>
+  <a href="https://github.com/Maher-bouchrara/semantic-paper-search"><img src="assets/projects/publications.svg" width="49%" alt="Scientific Publications Platform"></a>
+  <a href="https://github.com/MaherxBlhasn/job-match"><img src="assets/projects/job-match.svg" width="49%" alt="Job Match"></a>
+  <a href="https://odysseetravelservices.com"><img src="assets/projects/odyssee.svg" width="49%" alt="Odyssee Travel Services"></a>
+  <a href="https://github.com/Maher-bouchrara/face-recognition-intruder-detection"><img src="assets/projects/iot.svg" width="49%" alt="IoT Facial Recognition Security"></a>
+  <a href="https://github.com/Maher-bouchrara/training-center-api"><img src="assets/projects/welearn.svg" width="49%" alt="WeLearn Training Center"></a>
+  <a href="https://maher-bouchrara.vercel.app"><img src="assets/projects/maze.svg" width="49%" alt="Maze Generator &amp; Solver"></a>
+  <a href="https://github.com/MaherxBlhasn/Compet_Univ"><img src="assets/projects/exam-scheduling.svg" width="49%" alt="Exam Supervision Scheduling"></a>
 </p>
 
-**Also**
-
-- [**bg-changer-MODELIA**](https://github.com/Maher-bouchrara/bg-changer-MODELIA) <sub>· Oct 2026</sub> — background replacement with BiRefNet segmentation, clean edges and shadows: CLI, FastAPI API and Next.js page, benchmarked across 5 models.
-- **Candidature Studio** <sub>· Sep 2026 · private</sub> — job-application studio: versioned CV and letter data, one-page PDF rendering, LLM-assisted tailoring, batched SMTP sending.
-- **LLM Security Gateway** <sub>· Jun 2026 · internship · private</sub> — reversible PII anonymisation, prompt-injection and toxicity screening between users and cloud LLMs, with an audit dashboard.
-- **Team projects** — [MLOps platform](https://github.com/Blhasn-Sehli/mlops-platform) · [Exam supervision scheduler](https://github.com/MaherxBlhasn/Compet_Univ) · [Odyssee Travel dashboard](https://github.com/MaherxBlhasn/ODYSSEE-TRAVEL-Services-Dashboard) · [Job Match](https://github.com/MaherxBlhasn/job-match)
+**Also on GitHub:** [Editing Master](https://github.com/Maher-bouchrara/Editing-Master-skill) — a Claude Code plugin for making product videos · [Sakina](https://github.com/Maher-bouchrara/sakina-quran) — a Quran recitation player ([live](https://the-sakina-quran.vercel.app)) · **Candidature Studio** — a job-application studio with PDF rendering and LLM tailoring (private)
 
 <img src="assets/divider.svg" width="100%" alt="">
 
