@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="24" viewBox="0 0 1280 24" role="img" aria-label="divider">
+<defs>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2a2f38" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#2a2f38"/>
+    <stop offset="1" stop-color="#2a2f38" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#f0c765" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#f0c765"/>
+    <stop offset="1" stop-color="#f0c765" stop-opacity="0"/>
+  </linearGradient>
+  <style>
+    .run{animation:run 4.5s cubic-bezier(.65,0,.35,1) infinite}
+    @keyframes run{from{transform:translateX(-260px)}to{transform:translateX(1280px)}}
+    .dot{animation:pulse 2.2s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  </style>
+</defs>
+<rect x="0" y="11.5" width="1280" height="1" fill="url(#base)"/>
+<rect class="run" x="0" y="11" width="260" height="2" fill="url(#glow)"/>
+<circle class="dot" cx="640" cy="12" r="3" fill="#f0c765"/>
+</svg>
