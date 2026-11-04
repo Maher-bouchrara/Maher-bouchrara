@@ -8,9 +8,9 @@
     .desc{font:300 13px 'Sora',sans-serif;fill:#bdb4a4}
     .chip{fill:#111318;stroke:#2a2f38}
     .chipt{font:400 11px 'Sora',sans-serif;fill:#fbe3a6}
-    .run{animation:run 6s cubic-bezier(.65,0,.35,1) infinite;animation-delay:3.30s}
+    .run{animation:run 6s cubic-bezier(.65,0,.35,1) infinite;animation-delay:3.85s}
     @keyframes run{0%{transform:translateX(-200px)}55%,100%{transform:translateX(520px)}}
-    .dot{animation:pulse 2.4s ease-in-out infinite;animation-delay:3.30s}
+    .dot{animation:pulse 2.4s ease-in-out infinite;animation-delay:3.85s}
     @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
   </style>
   <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">

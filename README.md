@@ -57,6 +57,7 @@ I build software around language models: tools that use them, pipelines that orc
 <sub>Most recent first · the same projects as on my <a href="https://maher-bouchrara.vercel.app">portfolio</a>, with demos there.</sub>
 
 <p align="center">
+  <a href="https://github.com/Maher-bouchrara/Editing-Master-skill"><img src="assets/projects/editing-master.svg" width="49%" alt="Editing Master"></a>
   <a href="https://github.com/Maher-bouchrara/bg-changer-MODELIA"><img src="assets/projects/bg-changer.svg" width="49%" alt="bg-changer-MODELIA"></a>
   <a href="https://maher-bouchrara.vercel.app"><img src="assets/projects/sma.svg" width="49%" alt="SMA — Multi-Agent Prospecting"></a>
   <a href="https://maher-bouchrara.vercel.app"><img src="assets/projects/ai-gateway.svg" width="49%" alt="AI Gateway — LLM Security"></a>
@@ -71,7 +72,7 @@ I build software around language models: tools that use them, pipelines that orc
   <a href="https://github.com/MaherxBlhasn/Compet_Univ"><img src="assets/projects/exam-scheduling.svg" width="49%" alt="Exam Supervision Scheduling"></a>
 </p>
 
-**Also on GitHub:** [Editing Master](https://github.com/Maher-bouchrara/Editing-Master-skill) — a Claude Code plugin for making product videos · [Sakina](https://github.com/Maher-bouchrara/sakina-quran) — a Quran recitation player ([live](https://the-sakina-quran.vercel.app)) · **Candidature Studio** — a job-application studio with PDF rendering and LLM tailoring (private)
+**Also on GitHub:** [Sakina](https://github.com/Maher-bouchrara/sakina-quran) — a Quran recitation player ([live](https://the-sakina-quran.vercel.app)) · **Candidature Studio** — a job-application studio with PDF rendering and LLM tailoring (private)
 
 <img src="assets/divider.svg" width="100%" alt="">
 

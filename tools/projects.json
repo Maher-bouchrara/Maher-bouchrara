@@ -1,5 +1,14 @@
 [
   {
+    "id": "editing-master",
+    "title": "Editing Master",
+    "date": "Nov 2026",
+    "tags": ["Claude Code plugin"],
+    "description": "Claude Code plugin that guides an AI agent through making short product videos with HyperFrames: script, voice, music, camera zooms and subtitles.",
+    "tech": ["Claude Code", "HyperFrames", "GSAP", "FFmpeg"],
+    "link": "https://github.com/Maher-bouchrara/Editing-Master-skill"
+  },
+  {
     "id": "bg-changer",
     "title": "bg-changer-MODELIA",
     "date": "Oct 2026",
